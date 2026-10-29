@@ -1,0 +1,36 @@
+# Build folders
+Debug/
+Release/
+
+# Object files
+*.o
+*.d
+
+# Executables
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# STM32CubeIDE settings
+.settings/
+.project
+.cproject
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Backup files
+*.bak
+*.tmp
+
+# Eclipse metadata
+.metadata/
+
+# VSCode (if opened there)
+.vscode/
